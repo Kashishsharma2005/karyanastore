@@ -1,0 +1,78 @@
+body {
+    margin: 0px;
+    background-image: url(abstract-background-colors-texture-wallpaper-preview.jpg);
+}
+.upper {
+    height: 150px;
+    width: 100%;
+    background-image: url(ScreenHunter\ 573.png);
+    display: flex;
+    justify-content: center;
+}
+.banner img {
+    height: 150px;
+}
+
+.login-container {
+    width: 20%;
+    color: black;
+    height: 400px;
+    margin: 100px auto;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 20px 2px 4px 10px rgba(0, 255, 204, 0.1);
+    background-image: url(ScreenHunter\ 573.png);
+    transition: background-color 0.3s ease; /* Adding transition for smooth color change */
+}
+
+.login-container:hover {
+    background-color: rgb(0, 0, 0); /* Change the background color on hover */
+    color: rgb(0, 4, 255);
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1.5em;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#error-msg {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1.5em;
+}
+

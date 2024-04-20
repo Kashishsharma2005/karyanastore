@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    background-image: url(Inflation1400.webp);
+}
+.header {
+    height: 200px;
+    width: 100%;
+    background-color: thistle;
+    background-image: url(ALL\ IN\ ONE\ KARYANA\ STORE.png);
+}
+.first {
+   display: flex;
+   justify-content: center;
+}
+.first div {
+    background-color: rgb(255, 255, 255);
+    height: 300px;
+    width: 300px;
+    margin: 5px;
+    border-radius: 20px;
+    justify-content: center;
+    border: 3px solid black;
+}
+.first img {
+    height: 200px;
+    width: 200px;
+    margin-left: 32px;
+}
+
+.first button {
+    height: 37px;
+    width: 70px;
+    background-color: rgb(99, 255, 99);
+    border-radius: 15px;
+    font-size: 1.5em;
+
+}
