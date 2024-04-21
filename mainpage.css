@@ -3,12 +3,12 @@ body {
     background-image: url(Inflation1400.webp);
 }
 .header {
+    background-image: url(ALL\ IN\ ONE\ KARYANA\ STORE.png);
     height: 200px;
     width: 100%;
     display: flex;
     justify-content: center;
     background-color: thistle;
-    background-image: url(ALL\ IN\ ONE\ KARYANA\ STORE.png);
 }
 .header button {
     background-color: #00ccff; /* Green */
