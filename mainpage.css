@@ -1,6 +1,6 @@
 body {
     margin: 0px;
-    background-image: url(pictures/Inflation1400.webp);
+    background-image: url(Inflation1400.webp);
 }
 .header {
     height: 200px;
@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     background-color: thistle;
-    background-image: url(pictures/ALL\ IN\ ONE\ KARYANA\ STORE.png);
+    background-image: url(ALL\ IN\ ONE\ KARYANA\ STORE.png);
 }
 .header button {
     background-color: #00ccff; /* Green */
